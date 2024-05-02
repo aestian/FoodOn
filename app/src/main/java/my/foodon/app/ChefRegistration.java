@@ -30,8 +30,8 @@ import my.foodon.app.ChefVerifyPhone;
 
 
 public class ChefRegistration extends AppCompatActivity {
-    String[] Maharashtra = {"Mumbai","Pune","Nashik"};
-    String[] Madhyapradesh = {"Bhopal","Indore","Ujjain"};
+    String[] Maharashtra = {"Almaty","Astana","Shymkent"};
+    String[] Madhyapradesh = {"Almaty","Astana","Shymkent"};
 
     TextInputLayout Fname,Lname,Email,Pass,cpass,mobileno,houseno,area,pincode;
     Spinner Statespin,Cityspin;
