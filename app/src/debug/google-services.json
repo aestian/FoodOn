@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "773590987260",
+    "firebase_url": "https://foodon-c9b02-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "foodon-c9b02",
+    "storage_bucket": "foodon-c9b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773590987260:android:c9d80d935b5be8e9708279",
+        "android_client_info": {
+          "package_name": "my.foodon.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPWvorqQ4TQZ_Z9so6LdQ3pVNO3yRIkBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
