@@ -28,8 +28,8 @@ import java.util.HashMap;
 
 public class Registration extends AppCompatActivity {
 
-    String[] Maharashtra = {"Mumbai","Pune","Nashik"};
-    String[] Madhyapradesh = {"Bhopal","Indore","Ujjain"};
+    String[] Maharashtra = {"Almaty","Astana","Shymkent"};
+    String[] Madhyapradesh = {"Almaty","Astana","Shymkent"};
 
     TextInputLayout Fname,Lname,Email,Pass,cpass,mobileno,localaddress,area,pincode;
     Spinner Statespin,Cityspin;
